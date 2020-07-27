@@ -1,22 +1,14 @@
-n = int(input())
+x = int(input())
 
 
-for i in range (1, n+1):
-    k = str(i)
-    a = 0
-    for j in k:
-        if int(j) ==3 or int(j) ==6 or int(j) ==9 :
-            print('-', end=' ')
-            a+=1
+for n in range (1, x+1):
+    c3 = (str(n).count('3'))
+    c6 = (str(n).count('6'))
+    c9 = (str(n).count('9'))
 
-    if a == 0:
-        print(i, end= ' ')
-    
+    total = c3+c6+c9
 
-
-
-
-
-
-
-
+    if total == 0:
+        print(n, end=' ')
+    else :
+        print('-'*total, end=' ')
