@@ -1,3 +1,3 @@
-a = list(map(int, (input().split())))
-a.sort()
-print(a)
+a, b= [1, 2]
+
+print(a, b)
