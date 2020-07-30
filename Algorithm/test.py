@@ -1,3 +1,3 @@
-a, b= [1, 2]
+num_list = [3, 4, 5, 6]
 
-print(a, b)
+print(max(num_list))
