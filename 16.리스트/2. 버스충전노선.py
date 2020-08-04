@@ -1,32 +1,29 @@
-a = int(input())
+import sys
+sys.stdin = open("전기차input.txt")
+tc = int(input())
 
-c=0
+for i in range (1, tc+1):
+    K, N, M = list(map(int, input().split(' ')))
+    stops = [0]*N
+    gas_stops = list(map(int, input().split(' ')))
+    for j in gas_stops:
+        stops[j]=1
 
 
-for i in range(1, a+1):
-
-
-
-    k, n, m = map(int, input().split(' '))
-    q=list(input().split(' '))
-    q.append(f'{n}')
-    
-
-    print(q[0])
-    print(q[m])
-
-    start = 0 
-    for move in range (k, 0, -1):
-        for station in range (m, -1, -1):
-            if start + move == q[station]:
-                start = start + move
-                
+    location = 0
+    movement = 0
+    while location + K < N:
+        for k in range (location +K, location, -1):
+            if stops[k]==1:
+                location = k
+                movement +=1
                 break
-        
-                
+            
+            elif k==location+1:
+                movement = 0
+                location = N
+                break
 
-
-
-print(c)
+    print ("#%d %d"%(i, movement))
 
 
