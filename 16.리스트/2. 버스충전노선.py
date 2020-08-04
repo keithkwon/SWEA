@@ -1,11 +1,11 @@
 import sys
-sys.stdin = open("전기차input.txt")
+sys.stdin = open("버스충전input.txt")
 tc = int(input())
 
 for i in range (1, tc+1):
-    K, N, M = list(map(int, input().split(' ')))
+    K, N, M = list(map(int, input().split()))
     stops = [0]*N
-    gas_stops = list(map(int, input().split(' ')))
+    gas_stops = list(map(int, input().split()))
     for j in gas_stops:
         stops[j]=1
 
