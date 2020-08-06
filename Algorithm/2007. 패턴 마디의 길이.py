@@ -13,7 +13,7 @@ for v in range (1, tc+1):
             
         if a ==10:
             print(f'#{v} {i}')
-            continue
+            break
 
 
 

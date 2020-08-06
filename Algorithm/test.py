@@ -1,3 +1,3 @@
-num_list = [3, 4, 5, 6]
+a=[[1,2,3],[4,5,6]]
 
-print(max(num_list))
+print(a[0][1])
