@@ -1,5 +1,7 @@
 import sys
+
 sys.stdin = open('input.txt')
+
 
 total_tc = 10
 
