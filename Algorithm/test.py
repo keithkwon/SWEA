@@ -1,4 +1,3 @@
 a=[1, 2]
 
-x, y = a
-print(x)
+print(a[0:1])
