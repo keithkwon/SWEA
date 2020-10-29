@@ -1,0 +1,16 @@
+import sys
+sys.stdin = open('5186.txt')
+
+TC = int(input())
+for tc in range(1, TC+1):
+    decimal = float(input())
+    result = ''
+    while True:
+        result += str(int(decimal*2))
+        decimal = decimal *2 - int(decimal*2)
+        if decimal == 0:
+            break
+        if len(result)>12:
+            result = 'overflow'
+            break
+    print("#%d %s"%(tc, result))
