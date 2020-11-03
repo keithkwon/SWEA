@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e425c7d-925f-42a7-810b-77158cca344b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SWEA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/1242-conv.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/1242.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/4366. 정식이의 은행업무" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/4366.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/5185. 이진수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/5185.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/5186. 이진수2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/5186.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/myfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/sample_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/1242-conv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/1242-conv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,10 +16,11 @@
     <session id="-996912836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -41,47 +28,56 @@
           <entry key=" 암호코드 스캔" value="1" />
           <entry key=" 이진수2" value="1" />
           <entry key=" 정식이의 은행업무" value="1" />
-          <entry key="py" value="4" />
+          <entry key="py" value="5" />
           <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="7" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key=" 암호코드 스캔" value="1730" />
+          <entry key=" 암호코드 스캔" value="2459" />
           <entry key=" 이진수2" value="338" />
           <entry key=" 정식이의 은행업무" value="992" />
           <entry key="py" value="939" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3999" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="4728" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="525">
+              <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../암호코드스캔/(1242)암호코드스캔.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-627" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm/1242-conv.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="58" column="63" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
+            <state relative-caret-position="1900">
+              <caret line="2000" selection-start-line="2000" selection-end-line="2000" />
             </state>
           </provider>
         </entry>
@@ -89,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithm/1242.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
+            <state relative-caret-position="615">
               <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
             </state>
           </provider>
@@ -115,6 +111,7 @@
         <option value="$PROJECT_DIR$/Algorithm/1242.txt" />
         <option value="$PROJECT_DIR$/Algorithm/4366. 정식이의 은행업무" />
         <option value="$PROJECT_DIR$/Algorithm/test.py" />
+        <option value="$PROJECT_DIR$/Algorithm/1242-conv.txt" />
         <option value="$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔" />
       </list>
     </option>
@@ -371,24 +368,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/1242.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
+        <state relative-caret-position="615">
           <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../암호코드스캔/(1242)암호코드스캔.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/1242-conv.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="58" column="63" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
+        <state relative-caret-position="1900">
+          <caret line="2000" selection-start-line="2000" selection-end-line="2000" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/1242. 암호코드 스캔">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="85" column="13" lean-forward="true" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
         </state>
       </provider>
     </entry>
